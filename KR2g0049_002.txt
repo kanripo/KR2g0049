@@ -1,0 +1,38 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 儒林宗派
+#+DATE: 2015-08-24 22:36:15.630862
+#+PROPERTY: ID KR2g0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二 
+<pb:KR2g0049_WYG_002-1a>¶
+欽定四庫全書¶
+　儒林宗派卷二¶
+　　　　　　　　　　　　　鄞縣萬斯同撰¶
+<pb:KR2g0049_WYG_002-2a>¶
+¶
+<pb:KR2g0049_WYG_002-3a>¶
+¶
+<pb:KR2g0049_WYG_002-4a>¶
+¶
+<pb:KR2g0049_WYG_002-5a>¶
+¶
+<pb:KR2g0049_WYG_002-6a>¶
+¶
+<pb:KR2g0049_WYG_002-7a>¶
+　¶
+　¶
+　　右左氏春秋¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2g0049_WYG_002-7b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　儒林宗派卷二¶
